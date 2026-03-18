@@ -1,6 +1,6 @@
 <h1>Easy Shopping Via Mobile</h1>
 
-<h2>Projeto que aprendi no <a href="https://www.devclub.com.br/">DevClub </a>,utilizando as linguagens:</h2>
+<h2>Projeto que aprendi no <a href="https://www.devclub.com.br/">DevClub </a>,para testar meus conhecimentos em responsividade,projeto feito para ser utilizado também em mobile,utilizando as linguagens:</h2>
 <br>
 <ul>
 <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/></li>  
